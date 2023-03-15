@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwX6xJi3G0ODeu92PHK0dQh4ymmiM8KIKeaCh0isEctYPpgtfKZ5v2lGWVi6xZ8gKUaooC11FDF2w9Br3/VVUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kubac\\Desktop\\Úkol březen\\Úkol březen\\Úkol březen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubac\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\kubac\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
